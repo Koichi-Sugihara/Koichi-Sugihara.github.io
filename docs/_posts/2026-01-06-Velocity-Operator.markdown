@@ -24,16 +24,16 @@ categories: jekyll update
  - 相対パスでも可: /assets/pdf/velocity_operator.pdf  （Pagesのルートがdocsの場合）
 -->
 
-<iframe src="/assets/pdf/velocity_operator.pdf" width="100%" height="720" style="border:1px solid #ddd; border-radius:8px;" title="PDFプレビュー"></iframe>
+<iframe src="https://Koichi-Sugihara.github.io//assets/pdf/velocity_operator.pdf" width="100%" height="720" style="border:1px solid #ddd; border-radius:8px;" title="PDFプレビュー"></iframe>
 
 ---
 
 ## フォールバック（PDFが埋め込めない環境向け）
 
-<object data="/assets/pdf/velocity_operator.pdf" type="application/pdf" width="100%" height="720">
+<object data="https://Koichi-Sugihara.github.io/assets/pdf/velocity_operator.pdf" type="application/pdf" width="100%" height="720">
   <p>
     お使いの環境ではPDFのプレビューが表示できません。
-    <a href="/assets/pdf/velocity_operator.pdf" download>こちらからPDFをダウンロード</a> してください。
+    <a href="https://Koichi-Sugihara.github.io/assets/pdf/velocity_operator.pdf" download>こちらからPDFをダウンロード</a> してください。
   </p>
 </object>
 
@@ -41,7 +41,7 @@ categories: jekyll update
 
 ## ダウンロードリンクのみの表示（任意）
 
-[PDFをダウンロード](/assets/pdf/velocity_operator.pdf)
+[PDFをダウンロード](https://Koichi-Sugihara.github.io/assets/pdf/velocity_operator.pdf)
 
 ---
 
