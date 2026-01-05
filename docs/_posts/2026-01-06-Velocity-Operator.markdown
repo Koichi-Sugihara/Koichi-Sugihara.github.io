@@ -1,8 +1,8 @@
 
 ---
 layout: post
-title:  "速度演算子について"
-date:   2026-01-06 00:56:00 +0900
+title: "velocity operator"
+date:  2026-01-06 00:56:00 +0900
 categories: jekyll update
 ---
 
