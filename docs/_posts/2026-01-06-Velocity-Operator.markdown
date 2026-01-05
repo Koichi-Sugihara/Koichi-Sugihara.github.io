@@ -2,8 +2,8 @@
 ---
 layout: post
 title: "新機能のお知らせ"
-date: 2026-01-05
+date: 2026-01-06
 categories: news
 ---
 
-PDFを開く{:target="_blank" rel="noopener"}
+[PDFを開く](assets/pdf/Velocity-Operators.pdf){:target="_blank" rel="noopener"}
